@@ -1,0 +1,4 @@
+17:42 User input: (1.5+1.5)*2
+17:42 Solution: {6.0}
+17:43 User input: 2+2*2-9
+17:43 Solution: {-1.0}
